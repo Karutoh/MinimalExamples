@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\red-x\\source\\repos\\minimalexamples\\invisibleconstructor\\bar.ixx",
+        "ProvidedModule": "Bar",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Foo",
+                "BMI": "C:\\Users\\Red-X\\source\\repos\\MinimalExamples\\InvisibleConstructor\\Debug\\Foo.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
