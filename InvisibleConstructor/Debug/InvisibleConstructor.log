@@ -1,8 +1,0 @@
-﻿  Scanning sources for module dependencies...
-  Bar.ixx
-  Foo.ixx
-  Compiling...
-  Foo.ixx
-  Bar.ixx
-  Source.cpp
-  InvisibleConstructor.vcxproj -> C:\Users\Red-X\source\repos\MinimalExamples\Debug\InvisibleConstructor.exe
