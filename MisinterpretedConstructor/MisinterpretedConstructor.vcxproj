@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{99a81e3a-8287-4061-a807-0b1b679ab5e7}</ProjectGuid>
-    <RootNamespace>InvisibleConstructor</RootNamespace>
+    <ProjectGuid>{ff849829-4fb5-49a4-a01b-a43841ac0b5a}</ProjectGuid>
+    <RootNamespace>MisinterpretedConstructor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
